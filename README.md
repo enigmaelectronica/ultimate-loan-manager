@@ -21,6 +21,7 @@ Linea #64 poner el país deseado
 Modificar las líneas 76 y línea 88 y poner es
 
 #76    'locale' => 'es',
+
 #88    'fallback_locale' => 'en',
 
 Vaciar caché de navegador y eso es todo para que aparezca en español
