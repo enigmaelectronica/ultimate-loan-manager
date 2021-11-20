@@ -13,6 +13,7 @@ Crear una carpeta llamada es dentro de la siguiente dirección:
 Poner estos archivos que he traducido a ESPAÑOL dentro de esa carpeta
 
 Modificar las siguientes línea de código del archivo app.php que está dentro de .\code\config 
+
 Linea #64 poner el país deseado 
 
 #64 'timezone' => 'America/Colombia',
